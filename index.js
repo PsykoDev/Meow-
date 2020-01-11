@@ -83,7 +83,7 @@ module.exports = function autoFishing(mod) {
 				206511:'', 
 				206512:'', 
 				206513:'', 
-				206514
+				206514:''
 			},
 			e: 204053, //Pulsating Essence
 			t: 204051, //Angler Token
